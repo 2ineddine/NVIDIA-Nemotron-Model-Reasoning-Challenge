@@ -9,4 +9,5 @@
 *.lot
 *.sh
 *.sql
-
+*.csv
+*.csv#
